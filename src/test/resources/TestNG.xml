@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Annotation Example">
+    <test name="Annotations">
+        <classes>
+            <class name="tests.testNGPractice.AnnotationExample"></class>
+        </classes>
+    </test>
+</suite>
+
+
+
+
+
+
+
