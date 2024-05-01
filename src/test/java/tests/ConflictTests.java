@@ -7,7 +7,7 @@ public class ConflictTests {
 
     @Test
     public void test1(){
-        int a = 5;
+        int a = 100;
         int b = 10;
         int sum = (a + b) * 2;
         System.out.println("Sum: " + sum);
