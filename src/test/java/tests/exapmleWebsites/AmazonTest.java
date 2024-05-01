@@ -27,7 +27,7 @@ public class AmazonTest {
 
     @Test (groups = {"loginTest"})
     public void login1(){
-        System.out.println("login amazon test 1");
+        System.out.println("Login to amazon test 1");
     }
 
     @Test
